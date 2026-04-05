@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lab Website</title>
+</head>
+<body>
+
+<h1>My Diagnostic Laboratory</h1>
+
+<h2>Tests</h2>
+<ul>
+<li>CBC — ₹200</li>
+<li>Blood Sugar — ₹100</li>
+<li>Urine Test — ₹150</li>
+</ul>
+
+<h2>Contact</h2>
+<p>Phone: 9876543210</p>
+<p>Address: Your Address</p>
+
+</body>
+</html>
